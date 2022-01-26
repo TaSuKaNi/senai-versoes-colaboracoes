@@ -22,7 +22,7 @@ https://annitana.github.io/3.cheatsheet/pages/git.html
 
 ---
 
-##Alteração realizada no dia 26/01/22 
+## Alteração realizada no dia 26/01/22 
 
 >arquivo versoes.txt: para servir de exemplo.
 arquivo exemplo.txt: criação de novo arquivo.
