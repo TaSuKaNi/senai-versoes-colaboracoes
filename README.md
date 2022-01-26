@@ -22,9 +22,9 @@ https://annitana.github.io/3.cheatsheet/pages/git.html
 
 ---
 
-Alteração realizada no dia 26/01/22 
+##Alteração realizada no dia 26/01/22 
 
-*arquivo versoes.txt: para servir de exemplo.
+>arquivo versoes.txt: para servir de exemplo.
 arquivo exemplo.txt: criação de novo arquivo.
 
-Os comandos utilizados estão elencados no site, como git init, git status, git commit...
+>Os comandos utilizados estão elencados no site, como git init, git status, git commit...
