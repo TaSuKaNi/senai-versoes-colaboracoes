@@ -29,3 +29,7 @@ https://annitana.github.io/3.cheatsheet/pages/git.html
 >arquivo exemplo.txt: criação de novo arquivo.
 
 >Os comandos utilizados estão elencados no site, como git init, git status, git commit...
+
+## Alteração realizada no dia 01/02/22 
+
+>arquivo henrique.txt: colaborador Henrique adicionou o arquivo da branch dev ao principal
